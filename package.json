@@ -1,0 +1,13 @@
+{
+  "name": "multiproject-watch",
+  "version": "1.0.0",
+  "scripts": {
+    "multiproject-watch": "node build/watch.js"
+  },
+  "author": "",
+  "license": "",
+  "devDependencies": {
+    "find-nearest-file": "^1.1.0",
+    "watch": "^1.0.2"
+  }
+}
