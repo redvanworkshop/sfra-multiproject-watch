@@ -26,3 +26,5 @@ The script will watch for *.scss and *.js file changes, will attempt to find nea
 
 Note: error detection within the build script is pretty minimalistic and will not tie error messages to specific files.
 
+Note: If using Prophet plugin (https://marketplace.visualstudio.com/items?itemName=SqrTT.prophet), generated files will be uploaded after the build.
+
